@@ -1,3 +1,5 @@
+#URK24CS1155 #SHAWN PAUL STANLEY J
+print("URK24CS1155")
 1.
  inventory = {
     'gold' : 500,
